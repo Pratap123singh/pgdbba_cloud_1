@@ -1,7 +1,7 @@
 # iacsd
 ## mentor
 
-aaaaaaa
+*Technologies*
 - hadoop
 - spark
 - machine learning
