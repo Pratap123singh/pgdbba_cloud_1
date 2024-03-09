@@ -7,5 +7,5 @@
 - machine learning
 
 | Year | Passout |
-|********|********|
-|ssc|2003|
+| ******** | ******** |
+| ssc | 2003 |
