@@ -2,6 +2,6 @@
 ## mentor
 
 aaaaaaa
--- hadoop
--- spark
--- machine learning
+--hadoop
+--spark
+--machine learning
